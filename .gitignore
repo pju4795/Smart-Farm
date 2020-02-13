@@ -1,28 +1,4 @@
-Skip to content
-Why GitHub? 
-Enterprise
-Explore 
-Marketplace
-Pricing 
-Search
-
-Sign in
-Sign up
-ckiekim
-/
-Smart-Farm-Lecture
-100
- Code Issues 0 Pull requests 0 Actions Projects 0 Security Insights
-All your code in one place
-GitHub makes it easy to scale back on context switching. Read rendered documentation, see the history of any file, and collaborate with contributors on projects across GitHub.
-
- See pricing for teams and enterprises
-Smart-Farm-Lecture/.gitignore
-@ckiekim ckiekim public Æ÷ÇÔ
-74ad695 4 hours ago
-106 lines (77 sloc)  1.47 KB
-  
-# Added by CK Kim
+# Added by Park
 package.json
 package-lock.json
 db/
